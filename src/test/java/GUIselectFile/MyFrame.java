@@ -9,6 +9,7 @@ import java.util.jar.JarEntry;
 
 public class MyFrame extends JFrame implements ActionListener {
 
+    // insert buttons
     JButton button;
 
     MyFrame() {
